@@ -10,57 +10,71 @@
 ---
 
 # Required ReadMe Info for ALL MCS1243 Projects
-* **Project**   - 
-* **Your Name** - 
-* **Date**      - 
+* **Juicy Pong**   - 
+* **Aaron Ghiurau** - 
+* **11/11/2024**      - 
 
 <br>
 
 1. **What are the controls to your game? How do we play?**
 
-
+W/S and Up/Down arrows to move left and right paddles up and down respectively and mouse to navigate menu
 
 <br>
 
 2. **What creative additions did you make? How can we find them?**
 
-
+Player 1 is red themed and Player 2 is blue themed. The game over screen is the color of the winner and the death zone particles are the color of the one who scored.
 
 <br>
 
 3. **Any assets used that you didn't create yourself?** <br> (art, music, etc. Just tell us where you got it, link it here)
 
+Robot Crush font https://www.dafont.com/robot-crush.font?l[]=10&l[]=1&l[]=6
 
+Background Music:
+	Royalty Free Music: Bensound.com
+	License code: NSSPBFWO5FRQHBNN
+
+Collision Sound:
+	Big Structure Collision Heard from Inside by Osvoldon 
+	-- https://freesound.org/s/653294/
+	-- License: Creative Commons 0
+
+Death Zone Sound:
+	victory chime by 1bob 
+	-- https://freesound.org/s/717771/ 
+	-- License: Creative Commons 0
 
 <br>
 
 4. **Did you receive help from anyone outside this class?** <br> (list their names and what they helped with)
 
-
+No
 
 <br>
 
 5. **Did you get help from any AI Code Assistants?** <br> (Tell us which .cs file to look in for the citation and describe what you learned)
 
-
+No
 
 <br>
 
 6. **Did you get help from any online websites, videos, or tutorials?** <br> (link them here)
 
-
+Making audio sound closer to camera: https://discussions.unity.com/t/how-do-i-make-the-audio-louder/115349/4
 
 <br>
 
 7. **What trouble did you have with this project?**
 
-
+Making sound effects loud enough while representing the position they are from as well as distortion from screenshake for deathzone sound effects.
 
 <br>
 
 8. **Is there anything else we should know?**
 
-
+No
 
 
 <br><br><br><br><br>
